@@ -1,0 +1,2 @@
+c:\users\mfgsuptemp\documents\visual studio 2015\Projects\InterviewProject\InterviewProject\bin\Debug\InterviewProject.exe.config
+C:\Users\Kaylee\Documents\CSE stuff\Co-op\InterviewProject\InterviewProject\bin\Debug\InterviewProject.exe.config
