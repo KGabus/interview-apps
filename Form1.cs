@@ -26,7 +26,7 @@ namespace InterviewProject
 
         private void dateSearchToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            DateDifference dateForm = new DateDifference();
+            DateDiff dateForm = new DateDiff();
             dateForm.Show();
         }
     }
