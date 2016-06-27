@@ -12,11 +12,22 @@ namespace InterviewProject
 {
     public partial class Form1 : Form
     {
-        int intTransactionID = "Testing";
+        string intTransactionID = "Testing";                //changed data type from int to string
 
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dateSearchToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DateDifference dateForm = new DateDifference();
+            dateForm.Show();
         }
     }
 }

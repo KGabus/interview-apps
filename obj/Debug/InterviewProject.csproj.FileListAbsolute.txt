@@ -1,2 +1,13 @@
 c:\users\mfgsuptemp\documents\visual studio 2015\Projects\InterviewProject\InterviewProject\bin\Debug\InterviewProject.exe.config
 C:\Users\Kaylee\Documents\CSE stuff\Co-op\InterviewProject\InterviewProject\bin\Debug\InterviewProject.exe.config
+C:\Users\Kaylee\Documents\CSE stuff\Co-op\InterviewProject\InterviewProject\bin\Debug\InterviewProject.exe
+C:\Users\Kaylee\Documents\CSE stuff\Co-op\InterviewProject\InterviewProject\bin\Debug\InterviewProject.pdb
+C:\Users\Kaylee\Documents\CSE stuff\Co-op\InterviewProject\InterviewProject\obj\Debug\InterviewProject.csprojResolveAssemblyReference.cache
+C:\Users\Kaylee\Documents\CSE stuff\Co-op\InterviewProject\InterviewProject\obj\Debug\InterviewProject.Properties.Resources.resources
+C:\Users\Kaylee\Documents\CSE stuff\Co-op\InterviewProject\InterviewProject\obj\Debug\InterviewProject.csproj.GenerateResource.Cache
+C:\Users\Kaylee\Documents\CSE stuff\Co-op\InterviewProject\InterviewProject\obj\Debug\InterviewProject.exe
+C:\Users\Kaylee\Documents\CSE stuff\Co-op\InterviewProject\InterviewProject\obj\Debug\InterviewProject.pdb
+C:\Users\Kaylee\Documents\CSE stuff\Co-op\InterviewProject\InterviewProject\bin\Debug\DateSearch.dll
+C:\Users\Kaylee\Documents\CSE stuff\Co-op\InterviewProject\InterviewProject\bin\Debug\InputDataValidation.dll
+C:\Users\Kaylee\Documents\CSE stuff\Co-op\InterviewProject\InterviewProject\bin\Debug\KeywordSearch.dll
+C:\Users\Kaylee\Documents\CSE stuff\Co-op\InterviewProject\InterviewProject\obj\Debug\InterviewProject.Form1.resources

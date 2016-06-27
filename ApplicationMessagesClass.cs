@@ -13,11 +13,12 @@ using System.Windows.Forms;
 
 namespace InterviewProject
 {
-    //setting modular variables
-    string mstrTestingVariables;
-
+    
     class ApplicationMessagesClass
     {
+        //setting modular variables
+        string mstrTestingVariables;                //variables are to be declared inside of a class
+
         //Public method to get the information
         public void ErrorMessage(string strErrorMessage)
         {
@@ -37,7 +38,7 @@ namespace InterviewProject
 
             if (results == DialogResult.Yes)
             {
-                hApplication.Exit();
+                Application.Exit();                 //changed hApplication to Application
             }
         }
     }
