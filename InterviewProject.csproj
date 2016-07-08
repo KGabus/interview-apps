@@ -56,6 +56,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApplicationMessagesClass.cs" />
+    <Compile Include="Control Validation Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Control Validation Form.Designer.cs">
+      <DependentUpon>Control Validation Form.cs</DependentUpon>
+    </Compile>
     <Compile Include="DateDifference.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,6 +76,13 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ValidationForm.cs" />
+    <Compile Include="ValidationForm.Designer.cs">
+      <DependentUpon>ValidationForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Control Validation Form.resx">
+      <DependentUpon>Control Validation Form.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="DateDifference.resx">
       <DependentUpon>DateDifference.cs</DependentUpon>
     </EmbeddedResource>
@@ -85,6 +98,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="ValidationForm.resx">
+      <DependentUpon>ValidationForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

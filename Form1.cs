@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace InterviewProject
 {
-    public partial class Form1 : Form
+    public partial class NavMenu : Form
     {
         string intTransactionID = "Testing";                //changed data type from int to string
 
-        public Form1()
+        public NavMenu()
         {
             InitializeComponent();
         }

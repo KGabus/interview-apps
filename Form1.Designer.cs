@@ -1,6 +1,6 @@
 ﻿namespace InterviewProject
 {
-    partial class Form1
+    partial class NavMenu
     {
         /// <summary>
         /// Required designer variable.
@@ -60,14 +60,14 @@
             this.dateSearchToolStripMenuItem.Text = "Date Search";
             this.dateSearchToolStripMenuItem.Click += new System.EventHandler(this.dateSearchToolStripMenuItem_Click);
             // 
-            // Form1
+            // NavMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1842, 992);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
-            this.Name = "Form1";
+            this.Name = "NavMenu";
             this.Text = "Form Menu";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
